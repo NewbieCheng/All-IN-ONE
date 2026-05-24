@@ -30,7 +30,6 @@ All-IN-ONE 解决这个问题：
   DouYin_Spider─┘
 ```
 
-上游仓库：[Spider_XHS](https://github.com/cv-cat/Spider_XHS) / [WeiboApis](https://github.com/cv-cat/WeiboApis) / [DouYin_Spider](https://github.com/cv-cat/DouYin_Spider)
 
 ---
 
@@ -228,16 +227,7 @@ AIONE_XHS_COOKIES="<cookie>" AIONE_WEIBO_COOKIES="<cookie>" AIONE_DOUYIN_COOKIES
 
 ---
 
-## 🧸 额外说明
 
-1. 感谢 Star 和 Follow，项目会持续更新
-
-<div align="center">
-  <img src="https://github.com/cv-cat/Spider_XHS/blob/master/author/wx_pay.png" width="380px" alt="微信赞赏码">
-  <img src="https://github.com/cv-cat/Spider_XHS/blob/master/author/zfb_pay.jpg" width="380px" alt="支付宝收款码">
-</div>
-
----
 
 ## 📈 Star 趋势
 

@@ -231,9 +231,6 @@ AIONE_XHS_COOKIES="<cookie>" AIONE_WEIBO_COOKIES="<cookie>" AIONE_DOUYIN_COOKIES
 ## 🧸 额外说明
 
 1. 感谢 Star 和 Follow，项目会持续更新
-2. 作者联系方式在主页，有问题随时联系
-3. 欢迎 PR 和 Issue，也欢迎关注作者其他项目
-4. 如果此项目对您有帮助，欢迎请作者喝一杯奶茶
 
 <div align="center">
   <img src="https://github.com/cv-cat/Spider_XHS/blob/master/author/wx_pay.png" width="380px" alt="微信赞赏码">
@@ -254,12 +251,4 @@ AIONE_XHS_COOKIES="<cookie>" AIONE_WEIBO_COOKIES="<cookie>" AIONE_DOUYIN_COOKIES
 
 ---
 
-## 🍔 交流群
 
-如果你对爬虫和 AI Agent 感兴趣，请加作者主页 wx 通过邀请加入群聊
-
-ps: 请加群13、14，人满或者过期 issue | wx 提醒
-
-![group13](https://github.com/user-attachments/assets/cc06a36f-7abf-4646-a4a3-c2c841a77a88)
-
-![group14](https://github.com/user-attachments/assets/7c73f29e-0c46-4708-81a5-cc8527023de2)

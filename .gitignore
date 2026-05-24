@@ -1,0 +1,16 @@
+upstreams/
+*.egg-info/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+dist/
+build/
+.eggs/
+node_modules/
+package-lock.json
+.claude/
+.agents
+AGENTS.md
+CLAUDE.md
+docs/superpowers/
+docs
